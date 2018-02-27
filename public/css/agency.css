@@ -76,7 +76,7 @@ img::-moz-selection {
 body {
   -webkit-tap-highlight-color: #fed136; }
 
-#mainNav {
+/*#mainNav {
   background-color: #212529; }
   #mainNav .navbar-toggler {
     font-size: 12px;
@@ -124,7 +124,7 @@ body {
       background-color: #212529; }
       #mainNav.navbar-shrink .navbar-brand {
         font-size: 1.25em;
-        padding: 12px 0; } }
+        padding: 12px 0; } }*/
 
 header.masthead {
   text-align: center;
@@ -185,7 +185,7 @@ header.masthead {
     cursor: pointer; }
     #portfolio .portfolio-item .portfolio-link .portfolio-hover {
       position: absolute;
-      width: 100%;
+      width: 120%;
       height: 100%;
       -webkit-transition: all ease 0.5s;
       -moz-transition: all ease 0.5s;
