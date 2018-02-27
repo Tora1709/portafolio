@@ -1,0 +1,30 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "Portafolio",
+  "main": "api/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tora1709/portafolio.git"
+  },
+  "author": "Kevin Vega Chaves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tora1709/portafolio/issues"
+  },
+  "homepage": "https://github.com/Tora1709/portafolio#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-nodemon": "^2.2.1",
+    "md-date-picker": "^0.1.0",
+    "mongoose": "^4.12.3",
+    "nib": "^1.1.2",
+    "nodemailer": "^4.3.1",
+    "xoauth2": "^1.2.0"
+  }
+}
